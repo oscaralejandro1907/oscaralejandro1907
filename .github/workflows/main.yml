@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: oscaralejandro1907/oscaralejandro1907@master
         with:
-          WAKATIME_API_KEY: 
-          GH_TOKEN: 
+          WAKATIME_API_KEY: ${{ secrets.waka_95f402eb-773b-49a5-bbfd-bbb658cc9cb4 }}
+          GH_TOKEN: ${{ secrets.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 }}
