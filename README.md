@@ -23,13 +23,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 08 September 2023 - To: 09 September 2023
-
-Total Time: 1 hr 5 mins
-
-C++      1 hr 2 mins     >>>>>>>>>>>>>>>>>>>>>>>>-   96.51 %
-Python   2 mins          >------------------------   03.49 %
+```txt
+C++      1 hr 2 mins     ████████████████████████░   96.51 %
+Python   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
