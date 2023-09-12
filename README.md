@@ -22,4 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+C++      3 hrs 43 mins   ████████████████████████▒   97.51 %
+Python   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
