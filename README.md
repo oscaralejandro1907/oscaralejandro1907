@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           51 mins         ████████████████████████▒   97.66 %
-ActionScript 3   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Python           1 min           ██████████████████░░░░░░░   71.81 %
+ActionScript 3   0 secs          ███████░░░░░░░░░░░░░░░░░░   28.19 %
 ```
 
 <!--END_SECTION:waka-->
