@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other         5 hrs 1 min     █████████████████████████   99.52 %
+Mathematica   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Org           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+aspx-vb       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
