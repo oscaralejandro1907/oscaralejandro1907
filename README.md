@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         34 hrs 47 mins  ███████████████████████░░   91.40 %
-Python        2 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-C++           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Text          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Mathematica   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other         31 hrs 9 mins   █████████████████████▓░░░   87.14 %
+Python        2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+C++           1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Text          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Mathematica   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
