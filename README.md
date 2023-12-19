@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         12 hrs 15 mins  ████████████████████████▒   97.51 %
-C++           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Mathematica   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-aspx-vb       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other         7 hrs 37 mins   █████████████████████████   99.43 %
+Mathematica   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+aspx-vb       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
