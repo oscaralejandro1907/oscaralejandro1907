@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   6 hrs 24 mins   ████████████████████████▓   98.22 %
-C++      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python   1 hr 53 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
