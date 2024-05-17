@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++           40 mins         ████████████████████████▓   99.31 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-MATLAB        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+C++           20 mins         ██████████████████████▒░░   89.81 %
+TeX           2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+MATLAB        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
