@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++      3 hrs 35 mins   ██████████████████████▒░░   88.88 %
-MATLAB   26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C++      3 hrs 31 mins   ███████████████████████▒░   92.89 %
+MATLAB   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
