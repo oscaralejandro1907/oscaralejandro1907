@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB   1 min           ██████████████████████▓░░   90.38 %
-C++      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Python   43 mins         ███████████████████████▒░   92.97 %
+MATLAB   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Text     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
